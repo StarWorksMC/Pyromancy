@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="pyromancy">
+    <output-path>$PROJECT_DIR$/out/artifacts/pyromancy</output-path>
+    <root id="archive" name="pyromancy.jar">
+      <element id="module-output" name="Fire Bending" />
+    </root>
+  </artifact>
+</component>
